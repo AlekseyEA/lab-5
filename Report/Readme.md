@@ -64,3 +64,7 @@
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/c0ad67c5-91ea-45a2-bd29-b0dcbd40485a)
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/d90538b8-a8ab-459d-b061-b816409df2f5)
 ## 6. Автоматизация проверки формата файлов при коммите
+### 1) Создаем bash-скрипт
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/403f23f7-989e-4dd4-b709-e6836ccd08b4)
+
+### 2) Добавляем скрипт в репозиторий

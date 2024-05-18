@@ -54,5 +54,13 @@
 ## 5. Разрешение конфликта
 ### 1) Переключаемся на на ветку main и пробуем слить ветки
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/f07e8b1f-e80d-4896-8d88-6052a8306df0)
-
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/003d4964-560d-4f3f-aa7b-438f874cea10)
+### 2) Для устранения конфликта открываем файл для редактирования
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/f34a4f8c-e7c4-4b0c-ac90-e4561abf004f)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/38d9b6aa-821c-46c9-a081-33f37dcf9985)
+### 3) Решаем конфликт
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/9cebcd51-a80f-40b1-aeab-4d14559462e5)
+### 4) Фиксируем изменения и отправляем на GitHub
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/c0ad67c5-91ea-45a2-bd29-b0dcbd40485a)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/d90538b8-a8ab-459d-b061-b816409df2f5)
+## 6. Автоматизация проверки формата файлов при коммите

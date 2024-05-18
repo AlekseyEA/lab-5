@@ -24,27 +24,35 @@
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/4e9e8a89-e83a-4b10-8780-c423fbe5e761)
 ## 2. Работа с ветками
 ### 1) Создание нового текстового файла с базовой структурой книги
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/c916ba13-f19a-41ca-ae27-375141f2369c)
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/2547a2c4-5b9d-41d2-b831-33ed033a7389)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/c9a482bb-a6e6-44cc-8db1-e466e06e140d)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/9466029f-5f59-4f1b-8da3-a8852073fb8d)
 ### 2) Создание и переход в ветку "feature-login"
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/68510a29-316c-4163-86c2-7f19d58c7a7a)
 ### 3) Добавляем текста в текстовый файл
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/c2e2ef33-db00-449e-a224-2d566641930c)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/0eb454bb-ba44-468c-8199-01cfc009c384)
 ### 4) Коммитим изменения и отправляем на GitHub
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/9b6d4d19-0dee-4739-a295-f1f6812070fa)
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/c6f9da84-650e-4a5c-96ad-279f5a63b263)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/58c6c0a9-fd7c-48cc-950a-63a9e472bfed)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/64e3609d-ef34-4cba-b8c8-f4208488f2e6)
 ## 3. Работа с удаленным репозиторием
 ### 1) Переключаемся на на ветку main
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/638c8dfc-99e8-45c0-a9af-ce35efde60ec)
 ### 2) Вносим изменения в основной ветке
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/68cc30a1-0cfd-4c54-b651-1ca61ce21e63)
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/190ce589-3f70-49ca-a3b6-26c7abf33080)
-### 3) Фиксируем изменения и отправляем в GitHub
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/52c76146-8a17-4de1-8c07-155b080a5da2)
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/f1dd2d80-ac0f-4e0b-98af-44340f36f70c)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/29170cf2-8687-4d81-9684-65a9e7322f1a)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/35c8855b-8a5a-4403-be2c-5abd189137b7)
+### 3) Фиксируем изменения и отправляем на GitHub
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/679ac4d2-1ce4-44ff-af53-e59fe3158a6b)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/adb0109b-5f44-4dbb-b189-7a40f02af40b)
 ## 4. Моделирование конфликта
 ### 1) Переключаемся на на ветку feature-login
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/11a05a15-d085-46c8-b3c8-724d5b439867)
 ### 2) Вносим изменения в начале файла
-![image](https://github.com/AlekseyEA/lab-5/assets/113459638/48bc1fc8-4361-4669-92af-ea1767611d24)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/5a12f646-f43a-4b14-8cbe-7b58a84ba7c9)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/678e22c5-8783-439c-af43-5452095bb87a)
+### 3) Фиксируем изменения и отправляем на GitHub
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/3cba31b7-0f5a-430e-a2f5-17e521ecb58a)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/1467c2df-2c3d-4d07-a055-adbb4224d5bb)
+## 5. Разрешение конфликта
+### 1) Переключаемся на на ветку main и пробуем слить ветки
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/f07e8b1f-e80d-4896-8d88-6052a8306df0)
+
 

@@ -66,37 +66,40 @@
 ## 6. Автоматизация проверки формата файлов при коммите
 ### 1) Создаем bash-скрипт
 ![image](https://github.com/AlekseyEA/lab-5/assets/113459638/403f23f7-989e-4dd4-b709-e6836ccd08b4)
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/afa301e4-1529-45e3-ad5b-a1a2f3705e65)
 ### 2) Добавляем скрипт в репозиторий
-
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/3cf18463-b844-4c74-a3c1-8ec33f53fff9)
 ### 3) Пробуем внести изменения и закоммитить
-
-
-### 4) Решение конфликтов
-
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/acaee351-ba16-4917-9175-bf8738025d99)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/b7499947-afc6-4616-8693-c7b3cbf196d0)
 ## 7. Использование Git Flow в проекте
 ### 1) Установка Git Flow на локальной машине
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/21869e24-00bb-48de-9a0e-1f5fddd53a6a)
 ### 2) В корне репозитория выполняем инициализацию Git Flow
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/1aa176af-a15c-470f-ac14-581a26e2119a)
 ### 3) Создаем ветку для новой функциональности "task-management"
-
-### 4) Внесим изменения в код для добавления функционала управления задачами и фиксируем изменения
-
-### 5) Завершаем фичу и объединяем ее с основной веткой
-
-### 6) Переключаемся на ветку "develop" и начинаем создание релиза
-
-### 7) Внесим изменения, связанные с релизом
-
-### 8) Завершем релиз и объединяем его с ветками "develop" и "main"
-
-### 9) Создаем hotfix
-
-### 10) Внесим изменения для исправления ошибки и коммитим изменения
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/5ebae0fd-7685-4bc0-bb78-b41a0d405972)
+### 4) Внесем изменения в код для добавления функционала управления задачами и фиксируем изменения
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/6f4ca9d2-3f45-497c-a7ca-35430d390bbd)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/19c48fe1-e05c-4bf5-9094-d9fad0570bfa)
+### 5) Выполним коммит изменений
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/f7cf411e-6296-4d2c-8a50-bc39a7256e66)
+### 6) Завершаем фичу и объединяем ее с основной веткой
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/4e61e3ee-2443-4b91-be62-9591969a1364)
+### 7) Начинаем создание релиза
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/bccea46b-eaca-4e77-a4b1-07e7638786b4)
+### 8) Внесем изменения, связанные с релизом
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/fae71aa1-5627-4553-9441-67926e72925f)
+### 9) Завершим релиз и объединяем его с ветками "develop" и "main"
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/90520560-a27e-4d51-8fc0-2f536c666427)
+### 10) Создаем hotfix
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/228b3e30-0244-4fe4-8c89-07db5397b537)
+### 12) Внесим изменения для исправления ошибки и коммитим изменения
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/d747ec0a-ca2b-40ce-98e3-2a7ef4ddfa15)
 ### 11) Завершаем hotfix и объединяем его с ветками "develop" и "main"
-
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/2f28868c-fc13-4dd0-ac08-94269eb639ae)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/01d2bfc6-b9aa-40e0-9237-ada8c9d7e218)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/cffe1273-082f-461c-b212-51e2bac96d23)
 ### 12) Завершаем работу и отправляем изменения на удаленный репозиторий
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/7af94682-5158-4fc5-8708-52f9c39f5d22)
+![image](https://github.com/AlekseyEA/lab-5/assets/113459638/0cf97b37-9ae5-4ced-b9c6-37aabffe5773)
